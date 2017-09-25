@@ -49,7 +49,7 @@ Partial Class CreateUser
         'Label2
         '
         Me.Label2.AutoSize = True
-        Me.Label2.Location = New System.Drawing.Point(33, 119)
+        Me.Label2.Location = New System.Drawing.Point(33, 113)
         Me.Label2.Name = "Label2"
         Me.Label2.Size = New System.Drawing.Size(84, 13)
         Me.Label2.TabIndex = 2
@@ -58,7 +58,7 @@ Partial Class CreateUser
         'Label3
         '
         Me.Label3.AutoSize = True
-        Me.Label3.Location = New System.Drawing.Point(33, 146)
+        Me.Label3.Location = New System.Drawing.Point(33, 140)
         Me.Label3.Name = "Label3"
         Me.Label3.Size = New System.Drawing.Size(84, 13)
         Me.Label3.TabIndex = 3
@@ -66,14 +66,14 @@ Partial Class CreateUser
         '
         'PasswordBox
         '
-        Me.PasswordBox.Location = New System.Drawing.Point(124, 116)
+        Me.PasswordBox.Location = New System.Drawing.Point(124, 110)
         Me.PasswordBox.Name = "PasswordBox"
         Me.PasswordBox.Size = New System.Drawing.Size(100, 20)
         Me.PasswordBox.TabIndex = 4
         '
         'RepeatPasswordBox
         '
-        Me.RepeatPasswordBox.Location = New System.Drawing.Point(124, 143)
+        Me.RepeatPasswordBox.Location = New System.Drawing.Point(124, 137)
         Me.RepeatPasswordBox.Name = "RepeatPasswordBox"
         Me.RepeatPasswordBox.Size = New System.Drawing.Size(100, 20)
         Me.RepeatPasswordBox.TabIndex = 5
