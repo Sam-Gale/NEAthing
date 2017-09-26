@@ -24,7 +24,5 @@
 
     End Sub
 
-    Private Sub AccessBox_TextChanged(sender As Object, e As EventArgs) Handles PasswordBox.TextChanged
 
-    End Sub
 End Class
